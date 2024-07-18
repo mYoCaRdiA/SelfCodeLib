@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\ZiChuanTools\obj\Debug\ZiChuanTools.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ZiChuanTools\obj\Debug\ZiChuanTools.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\ZiChuanTools.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\ZiChuanTools.pdb
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\UnityEditor.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\UnityEngine.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\Unity.IL2CPP.BeeSettings.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\Unity.Cecil.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\Unity.CompilationPipeline.Common.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\ExCSS.Unity.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\UnityEditor.xml
+C:\Users\Administrator\Desktop\ZiChuanTools\bin\Debug\UnityEngine.xml
+C:\Users\Administrator\Desktop\ZiChuanTools\obj\Debug\ZiChuanTools.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ZiChuanTools\obj\Debug\ZiChuanTools.dll
+C:\Users\Administrator\Desktop\ZiChuanTools\obj\Debug\ZiChuanTools.pdb
